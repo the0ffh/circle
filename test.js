@@ -1,2 +1,2 @@
-console.log('test 00');
+console.log('la test');
 console.log(new Date(Date.now()));

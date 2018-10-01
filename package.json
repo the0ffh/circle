@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node -r babel-register index.js",
+    "test": "node -r babel-register test.js"
   },
   "author": "",
   "license": "ISC",
